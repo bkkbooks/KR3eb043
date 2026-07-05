@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb043_000.yaml, hash: 'sha256:c6cd7e234dcb00eba7d92f48d801f56d7a0221624cefa2f9d0770700dd2ea7d1'}
+  - {seq: 0, filename: KR3eb043_000.yaml, hash: 'sha256:626a2de36786b12b755d7bbfc0cbd88f49ed849ab13f3964b8acf28edee4cfc2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb043_000.markers.yaml, hash: 'sha256:2b2c9aabd008fb1663e53b216eaf0f05a63571d293ba08ed9c66e6958ba6625f'}
+  - {seq: 0, role: markers, filename: assets/KR3eb043_000.markers.yaml, hash: 'sha256:8d90207b16d5d5230c35371e5bf0740e2f2bda1418e568d85e264c4ad8c0d8f9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -421,7 +421,4 @@ table_of_contents:
   label: 三十二辨形氣宜合脈
   type: section
   level: 1
-hash: sha256:8dc643cfe15c1e68d0152fe379fe22fbec3eb07f14731bcc8f84c9c65a6f0c23
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f2ca36803ad96f7b943618a7b36b06062d4b607537605edf2c2976180c9059e9
