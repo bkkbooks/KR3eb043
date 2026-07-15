@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb043/v1
 canonical_location: https://kanripo.org/bkk/KR3eb043/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 診脈三十二辨
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb043_000.yaml, hash: 'sha256:626a2de36786b12b755d7bbfc0cbd88f49ed849ab13f3964b8acf28edee4cfc2'}
+  - {seq: 0, filename: KR3eb043_000.yaml, hash: 'sha256:4fe95958e31950fe86cb461f18d414a44a5f9e50704f71e8c7171948db1371de'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb043_000.markers.yaml, hash: 'sha256:8d90207b16d5d5230c35371e5bf0740e2f2bda1418e568d85e264c4ad8c0d8f9'}
+  - {seq: 0, role: markers, filename: assets/KR3eb043_000.markers.yaml, hash: 'sha256:af2081ce800fb7c9fb154d7b7770f0e319a419a497f974b615d8406c8ac03dcf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -421,4 +421,7 @@ table_of_contents:
   label: 三十二辨形氣宜合脈
   type: section
   level: 1
-hash: sha256:f2ca36803ad96f7b943618a7b36b06062d4b607537605edf2c2976180c9059e9
+hash: sha256:173d35f22e4d2cd74fff3c806d4db77b2423a5daa969ef28699059c9a8b857c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
